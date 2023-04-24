@@ -1,6 +1,6 @@
 'use strict';
 
-const Busboy = require('busboy');
+const Busboy = require('@fastify/busboy');
 const fs = require('fs');
 const os = require('os');
 const path = require('path');
